@@ -5,5 +5,5 @@
   "requirements": ["python-kodaksmarthome==0.1.5b1"],
   "dependencies": ["ffmpeg"],
   "codeowners": ["@kairoaraujo"],
-  "version": "1.3.0"
+  "version": "1.3.1"
 }
